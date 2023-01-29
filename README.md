@@ -1,4 +1,3 @@
-Flutter Project (Ask For Care)
 Ask For Care is an application to regulate the relationship between specialists (doctors / physiotherapists / nurses / childcare / elderly care) and the ability to book appointments and notice of reservations, where the patient can give him the symptoms that you feel and he directs you to the appropriate doctors for your condition with the expectation of disease.
 1- Flutter :
 
