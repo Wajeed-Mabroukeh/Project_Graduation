@@ -1,6 +1,5 @@
-flutter_project (Ask for care)
-Ask For Care هو تطبيق لتنظيم العلاقة بين المختصين (الاطباء / العلاج الفيزيائي / الممرضين/عناية بالاطفال / العناية بكبار السن) و القدرة على حجز مواعيد معهم و الرسائل مع وجود شات بوت حيث بامكانك اعطائه الاعراض التي تشعر بها و هو يدلك على الاطباء المناسبين لحالتك مع توقع المرض .
-
+Flutter Project (Ask For Care)
+Ask For Care is an application to regulate the relationship between specialists (doctors / physiotherapists / nurses / childcare / elderly care) and the ability to book appointments and notice of reservations, where the patient can give him the symptoms that you feel and he directs you to the appropriate doctors for your condition with the expectation of disease.
 1- Flutter :
 
 top Libraries and tools used :
